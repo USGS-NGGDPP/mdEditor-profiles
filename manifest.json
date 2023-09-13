@@ -5,19 +5,19 @@
     },
     {
       "identifier": "nggdpp-geological",
-      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@master/profiles/geological.json"
+      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/geological.json"
     },
     {
       "identifier": "nggdpp-image",
-      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@master/profiles/image.json"
+      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/image.json"
     },
     {
       "identifier": "nggdpp-invertebrate",
-      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@master/profiles/invertebrate.json"
+      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/invertebrate.json"
     },
     {
       "identifier": "nggdpp-vertebrate",
-      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@master/profiles/vertebrate.json"
+      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/vertebrate.json"
     }
   ]
   
