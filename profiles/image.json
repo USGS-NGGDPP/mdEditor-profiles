@@ -1,11 +1,11 @@
 {
-    "identifier": "NGGDPP_Common",
+    "identifier": "NGGDPP_image",
     "namespace": "gov.usgs.ndc",
     "alternateId": [
-        "NGGDPP_Common"
+        "NGGDPP_image"
     ],
-    "title": "NGGDPP Common",
-    "description": "A profile with common metadata elements for NGGDPP collections.",
+    "title": "NGGDPP Image",
+    "description": "A profile with metadata elements for NGGDPP image collections.",
     "version": "1.0.0",
     "components": {
         "record": {
