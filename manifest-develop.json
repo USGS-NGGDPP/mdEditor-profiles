@@ -1,22 +1,22 @@
 [
     {
-      "identifier": "nggdpp-common",
+      "name": "nggdpp common",
       "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@develop/profiles/common.json"
     },
     {
-      "identifier": "nggdpp-geological",
+      "name": "nggdpp geological",
       "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@develop/profiles/geological.json"
     },
     {
-      "identifier": "nggdpp-image",
+      "name": "nggdpp image",
       "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@develop/profiles/image.json"
     },
     {
-      "identifier": "nggdpp-invertebrate",
+      "name": "nggdpp invertebrate",
       "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@develop/profiles/invertebrate.json"
     },
     {
-      "identifier": "nggdpp-vertebrate",
+      "name": "nggdpp vertebrate",
       "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@develop/profiles/vertebrate.json"
     }
   ]
