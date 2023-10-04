@@ -1,9 +1,7 @@
 {
   "identifier": "nggdpp_invertebrate",
   "namespace": "gov.usgs.ndc",
-  "alternateId": [
-    "NGGDPP_invertebrate"
-  ],
+  "alternateId": ["NGGDPP_invertebrate"],
   "title": "NGGDPP Invertebrate",
   "description": "A profile with metadata elements for NGGDPP invertebrate collections.",
   "version": "1.0.0",
@@ -340,108 +338,87 @@
   },
   "vocabularies": [
     {
-      "source": "sciencebase",
-      "id": "6112869cf0d1326bc2b4bed8",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-6112869cf0d1326bc2b4bed8",
       "name": "Favret Conservation Status (dry)"
     },
     {
-      "source": "sciencebase",
-      "id": "6112869df0d1326bc2b4bedc",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-6112869df0d1326bc2b4bedc",
       "name": "Favret Conservation Status (fluid)"
     },
     {
-      "source": "sciencebase",
-      "id": "6112869df0d1326bc2b4bee0",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-6112869df0d1326bc2b4bee0",
       "name": "Favret Conservation Status (slide)"
     },
     {
-      "source": "sciencebase",
-      "id": "6112869df0d1326bc2b4bee4",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-6112869df0d1326bc2b4bee4",
       "name": "Favret Container Condition (dry)"
     },
     {
-      "source": "sciencebase",
-      "id": "6112869ef0d1326bc2b4bee9",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-6112869ef0d1326bc2b4bee9",
       "name": "Favret Container Condition (fluid)"
     },
     {
-      "source": "sciencebase",
-      "id": "6112869ef0d1326bc2b4beed",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-6112869ef0d1326bc2b4beed",
       "name": "Favret Container Condition (slide)"
     },
     {
-      "source": "sciencebase",
-      "id": "611286a0f0d1326bc2b4befc",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-611286a0f0d1326bc2b4befc",
       "name": "Favret Processing State (dry)"
     },
     {
-      "source": "sciencebase",
-      "id": "611286a0f0d1326bc2b4bf00",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-611286a0f0d1326bc2b4bf00",
       "name": "Favret Processing State (fluid)"
     },
     {
-      "source": "sciencebase",
-      "id": "611286a1f0d1326bc2b4bf04",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-611286a1f0d1326bc2b4bf04",
       "name": "Favret Processing State (slide)"
     },
     {
-      "source": "sciencebase",
-      "name": "CollectionTheme",
-      "id": "58b45852e4b0f974afcf03b4"
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-58b45852e4b0f974afcf03b4",
+      "name": "CollectionTheme"
     },
     {
-      "source": "sciencebase",
-      "id": "4f4e475ee4b07f02db47df14",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-4f4e475ee4b07f02db47df14",
       "name": "primaryPurpose"
     },
     {
-      "source": "sciencebase",
-      "id": "4f4e475ee4b07f02db47df0b",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-4f4e475ee4b07f02db47df0b",
       "name": "userGroup"
     },
     {
-      "source": "sciencebase",
-      "id": "4f4e475ee4b07f02db47df22",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-4f4e475ee4b07f02db47df22",
       "name": "category"
     },
     {
-      "source": "sciencebase",
-      "id": "4f4e475fe4b07f02db47df7b",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-4f4e475fe4b07f02db47df7b",
       "name": "unit"
     },
     {
-      "source": "sciencebase",
-      "id": "4f4e475ee4b07f02db47df1d",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-4f4e475ee4b07f02db47df1d",
       "name": "type"
     },
     {
-      "source": "sciencebase",
-      "id": "611d3f2dbfff3461918aba4d",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-611d3f2dbfff3461918aba4d",
       "name": "Known To Contain Types"
     },
     {
-      "source": "sciencebase",
-      "id": "611d213fbfff3461918aba48",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-611d213fbfff3461918aba48",
       "name": "Hazardous Materials"
     },
     {
-      "source": "sciencebase",
-      "id": "5bf3f7bce4b00ce5fb627d57",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/sciencebase-5bf3f7bce4b00ce5fb627d57",
       "name": "NGGDPP ReSciColl ScienceBase Type Tags"
     },
     {
-      "source": "usgs",
-      "id": "usgs-thesaurus",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/usgs-usgs-thesaurus",
       "name": "USGS Thesaurus"
     },
     {
-      "source": "gcmd",
-      "id": "1eb0ea0a-312c-4d74-8d42-6f1ad758f999",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/gcmd-1eb0ea0a-312c-4d74-8d42-6f1ad758f999",
       "name": "GCMD Science Keywords"
     },
     {
-      "source": "gcmd",
-      "id": "a9f88ca9-5d19-45fa-8fbb-3c6ff5f1f190",
+      "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@develop/resources/citations/gcmd-a9f88ca9-5d19-45fa-8fbb-3c6ff5f1f190",
       "name": "GCMD Chrono Units"
     }
   ]
