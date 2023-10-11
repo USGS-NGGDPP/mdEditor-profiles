@@ -336,7 +336,7 @@
       }
     ]
   },
-  "vocabularies": [
+  "thesauri": [
     {
       "url": "https://cdn.jsdelivr.net/gh/adiwg/mdKeywords@master/resources/thesaurus/sciencebase-6112869cf0d1326bc2b4bed8.json",
       "name": "Favret Conservation Status (dry)"
