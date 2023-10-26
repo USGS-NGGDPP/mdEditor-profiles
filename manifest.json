@@ -1,23 +1,23 @@
 [
     {
       "name": "nggdpp common",
-      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/common.json"
+      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@test-load/profiles/common.json"
     },
     {
       "name": "nggdpp geological",
-      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/geological.json"
+      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@test-load/profiles/geological.json"
     },
     {
       "name": "nggdpp image",
-      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/image.json"
+      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@test-load/profiles/image.json"
     },
     {
       "name": "nggdpp invertebrate",
-      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/invertebrate.json"
+      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@test-load/profiles/invertebrate.json"
     },
     {
       "name": "nggdpp vertebrate",
-      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/vertebrate.json"
+      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@test-load/profiles/vertebrate.json"
     }
   ]
   
