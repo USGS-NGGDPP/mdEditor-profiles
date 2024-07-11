@@ -338,11 +338,11 @@
   },
   "thesauri": [
     {
-      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-antarctica.json",
+      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-antarctica-dev.json",
       "name": "GNIS - Antarctica"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-california.json",
+      "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-keywords@dev/resources/thesaurus/gnis-domestic-california-dev.json",
       "name": "GNIS - California"
     }
   ]
