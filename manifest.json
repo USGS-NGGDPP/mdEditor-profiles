@@ -18,9 +18,5 @@
   {
     "name": "nggdpp vertebrate",
     "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/vertebrate.json"
-  },
-  {
-    "name": "nggdpp gnis",
-    "url": "https://cdn.jsdelivr.net/gh/USGS-NGGDPP/mdEditor-profiles@main/profiles/gnis.json"
   }
 ]
